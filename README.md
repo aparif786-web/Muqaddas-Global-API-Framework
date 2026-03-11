@@ -575,7 +575,12 @@ PostgreSQL shell या pgAdmin में:
 
 CREATE DATABASE muqaddas_global_api;
 
-
+लेवल (Levels) ज़ोन (Domain) डिजिटल नामकरण (Labeling) 3D एसेट / साइकोलॉजी (Assets)
+1 - 100 Earth (Panchi) AVATAR_EARTH_001 10,000 पक्षी (Amazon Forest Feel)।
+101 - 300 Deep Sea (Jeev) AVATAR_DEEP_OCEAN ऑक्टोपस, जेलीफ़िश (Bioluminescence Logic)।
+301 - 600 Planetary (Grah) AVATAR_PLANET_SYS मंगल, बृहस्पति, शनि (Planet Physics & Gravity)।
+601 - 900 Star (Nakshatra) AVATAR_STAR_LORD अश्विनी, रोहिणी, ओरियन (Star Constellations)।
+901 - 1000 Cosmic (Infinity) SULTAN_CORE_V8
 ---
 
 3️⃣ Install PostgreSQL Package in Project
